@@ -87,7 +87,7 @@ header nav ul li {
   }
 
   .internalHeader {
-    border: 4px solid rgb(56, 36, 153);
+    /* border: 4px solid rgb(56, 36, 153); */
     height: 150px;
     width: 100%;
     font-size: 60px;
@@ -97,7 +97,7 @@ header nav ul li {
   }
 
   .portLink {
-    border: 4px solid rgb(56, 36, 153);
+    /* border: 4px solid rgb(56, 36, 153); */
     height: 80px;
     width: 100%;
     font-size: 40px;
@@ -223,14 +223,14 @@ header nav ul li {
 
 
 .service {
-    border: 4px solid rgb(0, 0, 0);
+    /* border: 4px solid rgb(0, 0, 0); */
     width: auto;
     height: 715px;
     display: flex;
   }
 
 #resumeContent {
-    border: 4px solid rgb(0, 0, 0);
+    /* border: 4px solid rgb(0, 0, 0); */
     width: auto;
     height: 565px;
     display: flex;
@@ -344,7 +344,7 @@ footer{
 
 
 .headerText {
-    border: 4px solid rgb(106, 122, 194);
+    /* border: 4px solid rgb(106, 122, 194); */
     height: 80px;
     text-align: center;
     font-size: 45px;
